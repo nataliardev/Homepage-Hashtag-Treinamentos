@@ -1,0 +1,173 @@
+/* Global */
+
+h1,
+h2,
+h3,
+a,
+p,
+li {
+  font-family: "montserrat", sans-serif;
+  color: #404040;
+}
+
+h1 {
+  font-size: 35px;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 35px;
+  font-weight: 400;
+
+}
+
+p {
+   font-size: 16px;  
+}
+
+strong {
+  font-weight: 600;
+}
+
+.button-hero {
+  font-size: 24px;
+  font-weight: 700;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #ff9253;
+}
+
+/* Cabeçalho */
+
+.item-lista-cabecalho a {
+  font-family: "montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  color: #112e61;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+/* Seção Hero */
+
+
+#hero-paragrafo {
+  font-size: 19px;
+}
+
+
+
+/* Conteúdos Gratuitos */
+
+
+.gratuito-realce {
+  color: #7a40be;
+  font-weight: 600;
+}
+
+.gratuitos-treinamentos-programacao {
+  font-size: 23px
+  font-weight: 700;
+  color: #ffffff;
+  background-color: #aa56e6;
+}
+
+ul.canais-gratuitos a{
+  text-decoration: none;
+  font-size: 19.2px;
+  font-weight: 400;
+}
+
+/* Diferenciais */
+
+
+.paragrafos-diferenciais {
+  font-size: 16px;
+}
+
+.background-imagem {
+  background-color: #ffaf00;
+}
+
+.secao-diferenciais {
+  font-size:24px;
+  font-weight: 600;
+  color: #005e88;
+}
+
+
+.diferenciais-h3-empresas {
+  font-size: 35px;
+  font-weight: 400;
+}
+
+.diferenciais-h3-empresas a {
+  color: #005e88;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+/* Seção o que falam */
+
+.h2-oquefalam {
+  font-size: 27.6px;
+  font-weight: 400;
+}
+.h2-oquefalam span {
+  font-weight: 600;
+}
+
+/* Seção Blog */
+
+
+
+.postado-em a {
+  font-size: 13px;
+  font-weight: 600;
+  color: #f7a70c;
+  text-decoration: none;
+}
+
+.titulos-blog {
+  font-size: 23px;
+  font-weight: 600;
+  color: #404040;
+  text-decoration: none;
+}
+
+.como-ajudar-realce {
+  font-weight: 600;
+}
+
+.como-ajudar-lista, .como-ajudar-paragrafo  {
+  font-size: 19px;
+}
+
+.como-ajudar-lista a,
+.como-ajudar-paragrafo a {
+  color: #008ff7;
+  font-weight: 600;
+}
+
+.minicurso-realce {
+  font-weight: 600;
+}
+
+/* Rodapé */
+
+.rodape-titulo {
+  font-weight: 600;
+  font-size: 22PX;
+}
+.rodape-subtitulo {
+  font-size: 19px;
+  font-weight: 600;
+}
+.rodape-assistente {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.rodape.link {
+  color: #1a77a4;
+}
